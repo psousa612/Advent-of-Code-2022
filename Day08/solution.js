@@ -168,7 +168,7 @@ const solve = (data) => {
 const result = solve(data);
 console.log(result)
 
-// Part 
+// Part 1
 /*
 const solve = (data) => {
   // Solution here
